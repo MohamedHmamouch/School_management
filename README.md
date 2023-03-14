@@ -2,7 +2,6 @@
 
 Idara est le nom de mon application qui a été développée dans le cadre d'un projet académique visant à automatiser le processus d'inscription des enseignants aux sessions et à fournir des tableaux de bord pour suivre les statistiques telles que le nombre d'heures enseignées. En outre, cette application permet aux responsables d'options de suivre si les objectifs sont atteints tout au long de l'année.
 
-.. _tutorial: https://flask.palletsprojects.com/tutorial/
 
 
 ## Configuration de la base de données
